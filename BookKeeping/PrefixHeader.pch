@@ -1,0 +1,24 @@
+//
+//  PrefixHeader.pch
+//  BookKeeping
+//
+//  Created by ibokan on 15/9/19.
+//  Copyright (c) 2015年 rick. All rights reserved.
+//
+
+#ifndef BookKeeping_PrefixHeader_pch
+#define BookKeeping_PrefixHeader_pch
+
+#define SwitchKey @"switchKey"
+#define Password @"password"
+
+#define Screen_Width [UIScreen mainScreen].bounds.size.width
+#define Screen_Height [UIScreen mainScreen].bounds.size.height
+
+#import "LinTableViewCell.h"
+#import "LinViewController.h"
+#import "SQLOperation.h"
+#import "Model.h"
+#import "UIMessageView.h"
+
+#endif

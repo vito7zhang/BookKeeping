@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>日元</string>
+	<string>美元</string>
+	<string>欧元</string>
+	<string>英镑</string>
+	<string>人民币</string>
+	<string>澳大利亚元</string>
+	<string>加拿大元</string>
+	<string>瑞士法郎</string>
+	<string>港币</string>
+	<string>新台币</string>
+	<string>韩元</string>
+	<string>泰国铢</string>
+	<string>澳门元</string>
+	<string>卢布</string>
+	<string>新西兰元</string>
+	<string>新加坡元</string>
+</array>
+</plist>
